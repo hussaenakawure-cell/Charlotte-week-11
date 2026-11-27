@@ -1,0 +1,7 @@
+metric,malic_acid,proline
+total_input,178,178
+retained,177,177
+quarantined,1,1
+z_flag_count,1,1
+iqr_flag_count,4,1
+review_needed_count,6,6

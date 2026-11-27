@@ -1,0 +1,11 @@
+order_id,region,channel,order_value,units
+ORD-01,North,Online,120.0,3.0
+ORD-02,North,Store,,2.0
+ORD-03,South,Online,210.0,
+ORD-04,South,,150.0,4.0
+ORD-05,North,Store,190.0,1.0
+ORD-06,South,Online,,5.0
+ORD-07,North,,175.0,2.0
+ORD-08,South,Store,80.0,
+ORD-09,South,Online,240.0,6.0
+ORD-10,North,Online,135.0,4.0

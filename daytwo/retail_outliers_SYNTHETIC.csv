@@ -1,0 +1,13 @@
+order_id,order_value,quantity,channel
+R01,49,2,online
+R02,52,3,online
+R03,50,2,online
+R04,53,3,online
+R05,48,2,online
+R06,51,3,online
+R07,49,2,store
+R08,52,2,store
+R09,50,3,store
+R10,51,2,store
+R11,510,2,store
+R12,0,0,store
